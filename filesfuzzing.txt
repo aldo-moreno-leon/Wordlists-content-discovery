@@ -97931,7 +97931,7 @@ trabalhe-conosco.php
 trac
 tracback
 trace
-trace.axdtr
+trace.axd
 trace.log
 trace.php
 tracelog
