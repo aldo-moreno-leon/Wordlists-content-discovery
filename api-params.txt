@@ -1,0 +1,16 @@
+consumerId=all
+consumerID=all
+consumer_id=all
+public=true
+public=false
+id=*
+ID=*
+user=1000
+users=allusers=*
+user=*
+userId=*
+userID=*
+user_id=*
+userID=1000
+userId=1100
+user_id=1000
